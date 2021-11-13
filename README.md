@@ -56,6 +56,7 @@ ax4.set_ylabel('Education (100% being longest education / training)')
 
 plt.show()
 ```
+**NOTE** Comments included in the .py file to show uderstanding of code
 
 **REFERENCES**
 
