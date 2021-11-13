@@ -1,6 +1,7 @@
 # Author: Niall O Flaherty
 # Assignment: Sem02Week05 "Aalyse data from the memory dump or another data set of your choosing. Use any Python package you wish"
 # I created a CSV file with various different professions which included (by percentage rating) hours worked per week, salary, difficulty, education required.
+# References: In README.md file
 
 # The following lines of code import numpy, pandas and matplotlib libraries so we can use their functions.
 #import numpy as np
